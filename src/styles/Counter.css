@@ -1,0 +1,12 @@
+.counter {
+    min-width: 300px; /*it can expands if number is high*/
+    height: 300px;
+    font-size: 160px;
+    padding: 25px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 8px solid white;
+    margin-bottom: 15px;
+}
